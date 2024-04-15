@@ -1,0 +1,4 @@
+Blog de invitados..!!
+se agrego funcion print correo alblog
+adicional se corrio la cla main
+por ultimo se cerro el proyecto
